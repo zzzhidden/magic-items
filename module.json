@@ -84,7 +84,7 @@
 	}],
   "url": "https://github.com/zzzhidden/magic-items",
   "manifest": "https://github.com/zzzhidden/magic-items/releases/latest/download/module.json",
-  "download": "https://github.com/zzzhidden/magic-items/releases/latest/download/module.zip",
+  "download": "https://codeload.github.com/zzzhidden/magic-items/zip/refs/tags/11.0.0",
   "license": "LICENSE",
   "readme": "README.md"
 }
